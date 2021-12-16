@@ -1,0 +1,8 @@
+DOTNET C# - windowpowershell
+
+comm. - terminal:
+- DOTNET
+- dotnet new
+- dotnet new console
+- dotnet run
+- cls
